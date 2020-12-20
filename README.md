@@ -1,3 +1,3 @@
 # study-rep
 
-Good name for test project
+This line was modified manually during conflicts resolution
